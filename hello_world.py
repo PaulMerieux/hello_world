@@ -4,3 +4,4 @@ a[1:4]
 a.upper()
 a.lower()
 print(a)
+print("new changes")
